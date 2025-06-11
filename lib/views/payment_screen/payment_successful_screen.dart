@@ -41,6 +41,8 @@ class _PaymentSuccessfulScreenState extends State<PaymentSuccessfulScreen> {
                   ),
                 ),
               ),
+
+
               SizedBox(height: MediaQuery.of(context).size.height * 0.05),
               RectangleButton(
                 color: SColors.nextButtonOrange,
